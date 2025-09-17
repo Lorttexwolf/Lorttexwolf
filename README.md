@@ -9,6 +9,9 @@ In my free time, I enjoy 3D Printing, gaming, and jumping between many codebases
 <!-- <hr/> -->
 
 <!-- <img src="https://leetcard.jacoblin.cool/Lorttexwolf?theme=dark&font=Comfortaa"/> -->
+<!-- https://leetcard.jacoblin.cool/ -->
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <!--
 **Lorttexwolf/Lorttexwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
